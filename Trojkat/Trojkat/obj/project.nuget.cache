@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hPrnK/I6+RANamXA9s6fgwJWeT91LAE6/DuEwRan+N6MIf1BdjgM8WUa6109ixcrpvjTALM1J9YYtaf0YHk3yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\Obiektowka cw 1\\Trojkat\\Trojkat\\Trojkat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
